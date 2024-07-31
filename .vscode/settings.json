@@ -1,0 +1,11 @@
+{
+  "editor.guides.bracketPairs": true,
+  "editor.guides.indentation": true,
+  "dart.previewFlutterUiGuides": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "eslint.format.enable": true,
+  "dart.lineLength": 150,
+  "java.configuration.updateBuildConfiguration": "interactive"
+}
